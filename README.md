@@ -41,3 +41,17 @@ Each product is assigned a unique QR code linked to blockchain records, allowing
 ---
 
 ## 📂 Project Structure
+fake-product-detection-blockchain/
+│
+├── backend/
+│ └── server.js
+│
+├── frontend/
+│ ├── public/
+│ └── src/
+│ ├── App.js
+│ └── index.js
+│
+├── .gitignore
+├── package.json
+└── README.md
